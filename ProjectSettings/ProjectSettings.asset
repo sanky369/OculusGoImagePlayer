@@ -671,7 +671,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    7: VREASY_OCULUS_UTILITIES_SDK;VREASY_OCULUS_UTILITIES_SDK
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
