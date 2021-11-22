@@ -50,7 +50,7 @@ public class ImagePlayer : MonoBehaviour
 
     public void ResetUI(){
         roomText.text = "";
-        panoramaViewer.Image = null;
+        //panoramaViewer.Image = null;
     }
 
 }
